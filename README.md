@@ -18,4 +18,5 @@ As stated above, the main purpose is to provide simple examples for Git.
 Something here
 
 ##How To Contribute
+Please fork this repository and then issue Pull Requests for review.
 
