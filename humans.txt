@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rahela Toth toth.rahela@yahoo.com
 
 # THANKS
 
